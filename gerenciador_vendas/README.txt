@@ -1,7 +1,8 @@
 Guia Rápido - Sistema Gerenciador de Vendas
 ---------------------------------------------
 Visão Geral
-Este sistema é um gerenciador de vendas com automações integradas. Foi desenvolvido em Python com execução via terminal (por meio de um script `.bat` no Windows ou `.sh` no Linux). Ele permite cadastrar vendas, monitorar alterações no banco de dados, gerar relatórios e enviar por e-mail.
+-Para iniciar, clone o repositorio utilizando 
+git clone https://github.com/wescley1/Mesha-Tecnologia.git
 
 Funcionalidades Principais
 

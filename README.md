@@ -1,7 +1,13 @@
 # Guia Rápido - Sistema Gerenciador de Vendas
 
 ## Instruções Iniciais
--Para iniciar, clone o repositorio `git clone https://github.com/wescley1/Mesha-Tecnologia.git`
+- Faça o download ou clone o repositorio ``
+```bash
+    git clone https://github.com/wescley1/Mesha-Tecnologia.git
+    cd Mesha Tecnology\gerenciador_vendas
+```
+
+- Execute o arquivo `launcher_windows.bat`, se estiver no Windows ou `launcher_linux.sh` se estiver no Linux.
 
 ---
 

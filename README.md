@@ -1,7 +1,7 @@
 # Guia Rápido - Sistema Gerenciador de Vendas
 
 ## Instruções Iniciais
-Para iniciar, descompacte o arquivo `mesha_tecnologia.rar` e acesse a pasta `gerenciador_vendas` dentro da pasta `mesha Tecnologia`.
+-Para iniciar, clone o repositorio `git clone https://github.com/wescley1/Mesha-Tecnologia.git`
 
 ---
 

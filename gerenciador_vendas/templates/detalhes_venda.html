@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Detalhes da Venda #{{ venda[0] }}{% endblock %}
+
+{% block content %}
+  <h1>Detalhes da Venda #{{ venda[0] }}</h1>
+
+  <p><strong>Cliente:</strong> {{ venda[1] }}</p>
+  <p><strong>Data:</strong> {{ venda[2] }}</p>
+  <p><strong>Total:</strong> R$ {{ "%.2f"|format(venda[3]) }}</p>
+  <p><strong>Tipo de Pagamento:</strong> {{ venda[4] }}</p>
+
+  <h2>Produtos</h2>
+  <table style="width:100%; border-collapse: collapse; margin-top: 20px;">
+    <thead style="background-color: #6F42C1; color: white;">
+      <tr>
+        <th style="padding: 10px; text-align: left;">Produto</th>
+        <th style="padding: 10px; text-align: center;">Quantidade</th>
+        <th style="padding: 10px; text-align: right;">Preço Unitário</th>
+        <th style="padding: 10px; text-align: right;">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in itens %}
+      <tr style="border-bottom: 1px solid #ccc;">
+        <td style="padding: 10px;">{{ item[0] }}</td>
+        <td style="padding: 10px; text-align: center;">{{ item[1] }}</td>
+        <td style="padding: 10px; text-align: right;">R$ {{ "%.2f"|format(item[2]) }}</td>
+        <td style="padding: 10px; text-align: right;">R$ {{ "%.2f"|format(item[1] * item[2]) }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <br>
+  <a href="/vendas" class="btn">← Voltar para a lista de vendas</a>
+{% endblock %}

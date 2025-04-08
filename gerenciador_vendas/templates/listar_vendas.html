@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}Lista de Vendas{% endblock %}
+
+{% block content %}
+  <h1>Lista de Vendas</h1>
+
+  <a href="/nova-venda" class="btn">+ Nova Venda</a>
+
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Cliente</th>
+        <th>Data</th>
+        <th>Total (R$)</th>
+        <th>Qtd. Itens</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for venda in vendas %}
+      <tr>
+        <td>{{ venda[0] }}</td>
+        <td>{{ venda[1] }}</td>
+        <td>{{ venda[2] }}</td>
+        <td>{{ "%.2f"|format(venda[3]) }}</td>
+        <td>{{ venda[4] }}</td>
+        <td>
+          <div class="btn-group">
+            <a href="/vendas/{{ venda[0] }}" class="btn-mini">Ver</a>
+            <a href="/vendas/{{ venda[0] }}/editar" class="btn-mini btn-secondary">Editar</a>
+            <a href="/vendas/{{ venda[0] }}/excluir" class="btn-mini btn-danger">Excluir</a>
+          </div>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <br>
+  <a href="/" class="btn-secondary">← Voltar para o início</a>
+{% endblock %}

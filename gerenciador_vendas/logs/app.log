@@ -1,0 +1,266 @@
+[2025-04-08 19:34:02,118] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:02,120] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:04,757] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 19:34:04,758] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:04,760] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 19:34:04,760] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:04,996] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:05,066] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:05,067] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:06,398] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:06,401] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:07,656] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:07,656] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:08,104] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 19:34:08,104] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:08,105] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 19:34:08,106] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:08,278] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:08,282] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:08,283] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:09,615] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:09,617] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:11,878] INFO in app: Nova venda obtida da aplicação. Cliente: lara silva
+[2025-04-08 19:34:11,879] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:11,881] INFO in app: Valor total da venda: 440.0
+[2025-04-08 19:34:11,881] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:12,139] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:12,144] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:12,145] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:13,466] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:13,466] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:16,130] INFO in app: Nova venda obtida da aplicação. Cliente: joao mendes
+[2025-04-08 19:34:16,130] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:16,132] INFO in app: Valor total da venda: 1300.0
+[2025-04-08 19:34:16,132] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:16,369] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:16,381] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:16,383] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:17,702] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:17,704] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:19,451] INFO in app: Nova venda obtida da aplicação. Cliente: aline costa
+[2025-04-08 19:34:19,452] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:19,454] INFO in app: Valor total da venda: 360.0
+[2025-04-08 19:34:19,455] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:19,641] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:19,650] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:19,652] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:20,755] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:20,755] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:22,452] INFO in app: Nova venda obtida da aplicação. Cliente: ricardo nascimento
+[2025-04-08 19:34:22,453] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:22,454] INFO in app: Valor total da venda: 400.0
+[2025-04-08 19:34:22,454] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:22,604] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:22,618] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:22,619] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:23,756] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:23,757] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:34:25,999] INFO in app: Nova venda obtida da aplicação. Cliente: fernanda oliveira
+[2025-04-08 19:34:26,000] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:26,002] INFO in app: Valor total da venda: 2300.0
+[2025-04-08 19:34:26,003] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:34:26,219] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:34:26,223] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:34:26,223] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:44:02,410] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:44:02,411] INFO in app: Buscando informações de vendas
+[2025-04-08 19:44:08,980] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:44:08,981] INFO in app: Buscando informações de vendas
+[2025-04-08 19:45:58,042] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:45:58,042] INFO in app: Buscando informações de vendas
+[2025-04-08 19:48:17,919] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:17,921] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:48:20,505] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 19:48:20,505] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:20,507] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 19:48:20,507] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:48:20,802] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:48:20,806] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:20,807] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:48:22,129] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:22,129] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:48:23,918] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 19:48:23,919] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:23,920] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 19:48:23,921] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:48:24,141] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:48:24,145] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:24,146] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:48:44,470] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:44,471] INFO in app: Buscando informações de vendas
+[2025-04-08 19:48:47,027] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:48:47,028] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:50:10,932] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:10,934] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:50:13,689] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 19:50:13,690] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:13,693] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 19:50:13,693] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:50:14,027] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:50:14,031] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:14,032] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:50:15,357] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:15,358] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:50:17,178] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 19:50:17,179] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:17,182] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 19:50:17,184] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:50:17,381] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:50:17,384] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:17,385] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:50:27,604] INFO in app: Acessando home
+[2025-04-08 19:50:28,862] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:28,862] INFO in app: Buscando informações de vendas
+[2025-04-08 19:50:38,746] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:38,747] INFO in app: Buscando detalhes da venda de id 5
+[2025-04-08 19:50:42,296] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:42,296] INFO in app: Buscando informações de vendas
+[2025-04-08 19:50:43,366] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:43,367] INFO in app: Buscando detalhes da venda de id 2
+[2025-04-08 19:50:44,890] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:44,890] INFO in app: Buscando informações de vendas
+[2025-04-08 19:50:46,086] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:46,087] INFO in app: Buscando detalhes da venda de id 3
+[2025-04-08 19:50:48,831] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:50:48,831] INFO in app: Buscando informações de vendas
+[2025-04-08 19:51:16,501] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:51:16,501] INFO in app: Buscando informações de vendas
+[2025-04-08 19:51:17,481] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:51:17,482] INFO in app: Buscando detalhes da venda de id 2
+[2025-04-08 19:52:05,498] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:52:05,499] INFO in app: Buscando detalhes da venda de id 2
+[2025-04-08 19:52:07,180] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:52:07,181] INFO in app: Buscando informações de vendas
+[2025-04-08 19:52:09,786] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:52:09,786] INFO in app: Buscando detalhes da venda de id 1
+[2025-04-08 19:52:11,182] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:52:11,183] INFO in app: Buscando informações de vendas
+[2025-04-08 19:53:43,539] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:53:43,540] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:53:47,519] INFO in app: Nova venda obtida da aplicação. Cliente: a
+[2025-04-08 19:53:47,519] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:53:47,521] INFO in app: Valor total da venda: 150.0
+[2025-04-08 19:53:47,521] INFO in app: Tipo de pagamento da venda: boleto
+[2025-04-08 19:53:47,522] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:53:47,868] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:53:47,878] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:53:47,879] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:54:02,681] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:02,683] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:54:05,153] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 19:54:05,154] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:05,156] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 19:54:05,156] INFO in app: Tipo de pagamento da venda: pix
+[2025-04-08 19:54:05,159] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:54:05,437] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:54:05,470] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:05,471] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:54:06,800] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:06,802] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 19:54:08,692] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 19:54:08,693] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:08,695] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 19:54:08,697] INFO in app: Tipo de pagamento da venda: boleto
+[2025-04-08 19:54:08,697] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 19:54:08,935] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 19:54:08,939] INFO in app: Iniciando conexão com o banco
+[2025-04-08 19:54:08,940] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:00:39,376] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:00:39,377] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:00:41,815] INFO in app: Nova venda obtida da aplicação. Cliente: aaaa
+[2025-04-08 20:00:41,815] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:00:41,819] INFO in app: Valor total da venda: 150.0
+[2025-04-08 20:00:41,820] INFO in app: Tipo de pagamento da venda: pix
+[2025-04-08 20:00:41,821] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:00:41,821] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('aaaa', '2025-04-08', 150.0, 'pendente', 'pix')
+
+[2025-04-08 20:00:42,174] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:00:42,184] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:00:42,185] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:14:28,198] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:28,199] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:14:31,212] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 20:14:31,213] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:31,214] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 20:14:31,215] INFO in app: Tipo de pagamento da venda: pix
+[2025-04-08 20:14:31,215] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:14:31,215] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('isa ferreira', '2025-04-07', 1200.0, 'pendente', 'pix')
+
+[2025-04-08 20:14:31,564] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:14:31,574] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:31,575] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:14:32,625] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:32,628] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:14:34,562] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 20:14:34,563] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:34,564] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 20:14:34,564] INFO in app: Tipo de pagamento da venda: boleto
+[2025-04-08 20:14:34,565] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:14:34,565] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('wes dimas', '2025-04-01', 1000.0, 'pendente', 'boleto')
+
+[2025-04-08 20:14:34,803] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:14:34,879] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:14:34,879] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:15:22,134] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:22,135] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:15:24,964] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 20:15:24,965] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:24,967] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 20:15:24,967] INFO in app: Tipo de pagamento da venda: pix
+[2025-04-08 20:15:24,968] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:15:24,968] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('isa ferreira', '2025-04-07', 1200.0, 'pendente', 'pix')
+
+[2025-04-08 20:15:25,333] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:15:25,342] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:25,345] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:15:26,668] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:26,668] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:15:28,557] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 20:15:28,558] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:28,562] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 20:15:28,565] INFO in app: Tipo de pagamento da venda: boleto
+[2025-04-08 20:15:28,566] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:15:28,567] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('wes dimas', '2025-04-01', 1000.0, 'pendente', 'boleto')
+
+[2025-04-08 20:15:28,799] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:15:28,811] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:15:28,813] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:16:28,868] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:28,870] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:16:31,609] INFO in app: Nova venda obtida da aplicação. Cliente: isa ferreira
+[2025-04-08 20:16:31,610] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:31,611] INFO in app: Valor total da venda: 1200.0
+[2025-04-08 20:16:31,611] INFO in app: Tipo de pagamento da venda: pix
+[2025-04-08 20:16:31,612] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:16:31,612] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('isa ferreira', '2025-04-07', 1200.0, 'pendente', 'pix')
+
+[2025-04-08 20:16:32,229] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:16:32,237] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:32,238] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:16:33,584] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:33,585] INFO in app: Buscando produtos no banco de dados
+[2025-04-08 20:16:35,406] INFO in app: Nova venda obtida da aplicação. Cliente: wes dimas
+[2025-04-08 20:16:35,407] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:35,408] INFO in app: Valor total da venda: 1000.0
+[2025-04-08 20:16:35,409] INFO in app: Tipo de pagamento da venda: boleto
+[2025-04-08 20:16:35,409] INFO in app: Inserindo novas vendas nas tabelas
+[2025-04-08 20:16:35,410] INFO in app: Query de insert: 
+    INSERT INTO vendas (cliente, data, total, status, pagamento_tipo)
+    VALUES ('wes dimas', '2025-04-01', 1000.0, 'pendente', 'boleto')
+
+[2025-04-08 20:16:35,622] INFO in app: Informações adicionadas com sucesso. Fechando conexão com banco.
+[2025-04-08 20:16:35,630] INFO in app: Iniciando conexão com o banco
+[2025-04-08 20:16:35,631] INFO in app: Buscando produtos no banco de dados

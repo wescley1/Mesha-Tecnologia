@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Excluir Venda</title>
+</head>
+<body>
+  <h1>Excluir Venda #{{ venda_id }}</h1>
+  <p>Tem certeza de que deseja excluir a venda do cliente <strong>{{ cliente }}</strong>?</p>
+
+  <form method="POST">
+    <button type="submit" style="background-color: red; color: white;">Confirmar Exclusão</button>
+  </form>
+
+  <p><a href="/vendas">← Cancelar e voltar para a lista</a></p>
+</body>
+</html>

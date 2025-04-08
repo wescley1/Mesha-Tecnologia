@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Relatório de Vendas{% endblock %}
+
+{% block content %}
+  <h1>Relatório de Vendas</h1>
+
+  {% for venda in vendas %}
+    <div class="venda-card">
+      <h2>Venda #{{ venda.id }} - {{ venda.cliente }}</h2>
+      <p><strong>Data:</strong> {{ venda.data }} | <strong>Total:</strong> R$ {{ "%.2f"|format(venda.total) }}</p>
+
+      <table class="styled-table">
+        <thead>
+          <tr>
+            <th>Produto</th>
+            <th>Quantidade</th>
+            <th>Preço Unitário</th>
+            <th>Subtotal</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in venda.itens %}
+          <tr>
+            <td>{{ item.nome }}</td>
+            <td>{{ item.quantidade }}</td>
+            <td>R$ {{ "%.2f"|format(item.preco) }}</td>
+            <td>R$ {{ "%.2f"|format(item.subtotal) }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  {% endfor %}
+
+  <a href="/" class="btn-secondary">← Voltar para o início</a>
+{% endblock %}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: sans-serif; }
+    h1 { text-align: center; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h1>Relatório de Vendas - {{ data }}</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Cliente</th>
+        <th>Data</th>
+        <th>Produto</th>
+        <th>Quantidade</th>
+        <th>Preço Unitário</th>
+        <th>Tipo Pagamento</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for id, cliente, data, pagamento, qtd, produto, preco in vendas %}
+      <tr>
+        <td>{{ cliente }}</td>
+        <td>{{ data }}</td>
+        <td>{{ produto }}</td>
+        <td>{{ qtd }}</td>
+        <td>R$ {{ "%.2f"|format(preco) }}</td>
+        <td>{{ pagamento }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

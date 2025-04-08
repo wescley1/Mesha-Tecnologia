@@ -1,0 +1,19 @@
+[
+  {
+    "cliente": "isa ferreira",
+    "data": "07-4-2025",
+    "pagamento_tipo": "pix",
+    "produtos": [
+      { "produto_id": 1, "quantidade": 2 },
+      { "produto_id": 3, "quantidade": 1 }
+    ]
+  },
+  {
+    "cliente": "wes dimas",
+    "data": "01-4-2025",
+    "pagamento_tipo": "boleto",
+    "produtos": [
+      { "produto_id": 2, "quantidade": 4 }
+    ]
+  }
+]

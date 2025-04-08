@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Editar Venda #{{ venda_id }}{% endblock %}
+
+{% block content %}
+  <h1>Editar Venda #{{ venda_id }}</h1>
+
+  <form method="POST">
+    <div class="form-group">
+      <label for="cliente">Cliente:</label>
+      <input type="text" name="cliente" id="cliente" value="{{ cliente }}" required class="input-text">
+    </div>
+
+    <h2>Produtos</h2>
+    {% for produto in produtos %}
+      <div class="form-group">
+        <label>{{ produto[1] }}</label>
+        <input type="number" name="quantidade_{{ produto[0] }}" min="0" value="{{ itens.get(produto[0], 0) }}" class="input-number">
+      </div>
+    {% endfor %}
+
+    <br>
+    <button type="submit" class="btn">Salvar Alterações</button>
+  </form>
+
+  <br>
+  <a href="/vendas" class="btn-secondary">← Voltar para a lista de vendas</a>
+  <a href="/" class="btn-secondary">← Voltar para o início</a>
+{% endblock %}

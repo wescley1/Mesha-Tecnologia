@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}Nova Venda{% endblock %}
+
+{% block content %}
+  <h2>Cadastrar Nova Venda</h2>
+  <form method="POST">
+    <label>Cliente:</label><br>
+    <input type="text" name="cliente" required><br><br>
+
+    <label>Data:</label><br>
+    <input type="date" name="data" value="{{ data_hoje }}" required><br><br>
+
+    <label for="pagamento_tipo">Tipo de Pagamento:</label><br>
+    <select name="pagamento_tipo" id="pagamento_tipo" required>
+      <option value="pix">PIX</option>
+      <option value="boleto">Boleto</option>
+    </select>
+
+    <h3>Produtos:</h3>
+    <div id="produtos">
+      <div class="produto">
+        <select name="produto">
+          {% for id, nome in produtos %}
+            <option value="{{ id }}">{{ nome }}</option>
+          {% endfor %}
+        </select>
+        <input type="number" name="quantidade" min="1" value="1">
+      </div>
+    </div>
+    <button type="button" onclick="adicionarProduto()" class="btn">+ Produto</button><br><br>
+
+    <button type="submit" class="btn">Salvar</button>
+  </form>
+
+  <p><a href="/">← Voltar para o início</a></p>
+
+  <script>
+    function adicionarProduto() {
+      const container = document.getElementById('produtos');
+      const novaLinha = container.children[0].cloneNode(true);
+      container.appendChild(novaLinha);
+    }
+  </script>
+
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <script>
+        {% for category, message in messages %}
+          Swal.fire({
+            icon: "{{ 'error' if category == 'erro' else 'info' }}",
+            title: "Aviso",
+            text: "{{ message }}"
+          });
+        {% endfor %}
+      </script>
+    {% endif %}
+  {% endwith %}
+{% endblock %}

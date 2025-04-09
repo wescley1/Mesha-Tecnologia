@@ -15,5 +15,58 @@
     "produtos": [
       { "produto_id": 2, "quantidade": 4 }
     ]
+  },
+  {
+    "cliente": "lara silva",
+    "data": "03-4-2025",
+    "pagamento_tipo": "pix",
+    "produtos": [
+      { "produto_id": 5, "quantidade": 1 },
+      { "produto_id": 4, "quantidade": 2 }
+    ]
+  },
+  {
+    "cliente": "joao mendes",
+    "data": "04-4-2025",
+    "pagamento_tipo": "boleto",
+    "produtos": [
+      { "produto_id": 1, "quantidade": 1 },
+      { "produto_id": 2, "quantidade": 1 },
+      { "produto_id": 3, "quantidade": 1 }
+    ]
+  },
+  {
+    "cliente": "aline costa",
+    "data": "05-4-2025",
+    "pagamento_tipo": "pix",
+    "produtos": [
+      { "produto_id": 4, "quantidade": 3 }
+    ]
+  },
+  {
+    "cliente": "ricardo nascimento",
+    "data": "06-4-2025",
+    "pagamento_tipo": "boleto",
+    "produtos": [
+      { "produto_id": 5, "quantidade": 2 }
+    ]
+  },
+  {
+    "cliente": "fernanda oliveira",
+    "data": "07-4-2025",
+    "pagamento_tipo": "pix",
+    "produtos": [
+      { "produto_id": 2, "quantidade": 2 },
+      { "produto_id": 3, "quantidade": 2 }
+    ]
+  },
+  {
+    "cliente": "bruno lopes",
+    "data": "07-4-2025",
+    "pagamento_tipo": "boleto",
+    "produtos": [
+      { "produto_id": 1, "quantidade": 1 },
+      { "produto_id": 5, "quantidade": 1 }
+    ]
   }
 ]

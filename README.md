@@ -26,7 +26,7 @@ Este projeto contém um gerenciador e um sistema web com automações integrados
 
 ### 1. Iniciar Sistema
 - Inicia dois serviços principais:
-  - `app.py`: Interface web da aplicação  
+  - `app.py`: Aplicação web com gerenciador de recursos  
     - Acesse em: [http://localhost:5000/](http://localhost:5000/)  
     - Usa templates da pasta `/templates`
   - `monitor_vendas.py`: Monitora o banco `loja.db` em tempo real  

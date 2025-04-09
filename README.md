@@ -13,7 +13,7 @@
 ---
 
 ## Visão Geral
-Este sistema é um gerenciador de vendas com automações integradas. Foi desenvolvido em **Python**, com execução via **terminal** (usando `.bat` no Windows ou `.sh` no Linux). Ele permite:
+Este projeto contém um gerenciador e um sistema web com automações integrados. Foi desenvolvido em **Python**, com execução controlada via **terminal** (usando `.bat` no Windows ou `.sh` no Linux). Algumas capacidades são:
 
 - Cadastrar vendas  
 - Monitorar alterações no banco de dados  
@@ -22,7 +22,7 @@ Este sistema é um gerenciador de vendas com automações integradas. Foi desenv
 
 ---
 
-## Funcionalidades Principais
+## Funcionalidades Principais do gerenciador
 
 ### 1. Iniciar Sistema
 - Inicia dois serviços principais:
